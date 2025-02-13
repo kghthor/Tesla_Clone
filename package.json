@@ -1,7 +1,7 @@
 {
   "name": "tesla_clone",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "homepage": "https://SashenJayathilaka.github.io/Tesla_Clone",
   "dependencies": { 
     "@emotion/react": "^11.11.4",
