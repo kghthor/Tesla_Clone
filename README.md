@@ -1,7 +1,7 @@
  # Tesla Clone with REACT  
    
 ###  <a href="https://tesla-clone-ae3e4.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a>
- 
+  
 #### PREREQUISITES: 
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a> 
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
