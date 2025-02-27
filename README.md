@@ -3,7 +3,7 @@
 ###  <a href="https://tesla-clone-ae3e4.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a>
   
 #### PREREQUISITES: 
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a> 
+- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>  
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 - Download all the images <a href='https://drive.google.com/drive/folders/1mJCPqriRujf7Lf43R3YP1A9h9qbAYBYa?usp=sharing'>HERE</a>
  
