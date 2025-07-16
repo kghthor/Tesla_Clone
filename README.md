@@ -1,5 +1,5 @@
  # Tesla Clone with REACT  
-     
+      
 ###  <a href="https://tesla-clone-ae3e4.firebaseapp.com" target="_blank">🔴 LIVE DEMO</a> 
   
 #### PREREQUISITES: 
